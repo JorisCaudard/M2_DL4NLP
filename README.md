@@ -15,6 +15,7 @@ Repository concerning the M2 Deep Learning for NLP course
     - ptb/
 - notebooks/
     - Assignment_1.ipynb
+    - Assignment_2.ipynb
 - reports/
 - README.md
 
